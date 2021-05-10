@@ -1,4 +1,4 @@
-## Steven Doerstling
+## Steven Doerstling's personal website
 
 You can use the [editor on GitHub](https://github.com/sdoerstling/sdoerstling.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
